@@ -1,16 +1,13 @@
-## Hi there 👋
+# Heya! 👋
 
-<!--
-**thephunkmonk/thephunkmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Engineer** | 💻 **Technology Enthusiast** | 🇺🇸 🇰🇷 🇯🇵 **Parttime Historian**
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **a movie recommendation system**.
+- 🌱 I’m learning **Kafka**, **QGIS**, and **Flutter**.
+- 💬 Ask me about **data pipelines**, **APIs**, and **maps**.
+- 📫 Reach me at: Email: andrewchoi1218@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, SQL, JavaScript
+- **Frameworks/Tools:** FastAPI, Docker, MongoDB, Airflow
+- **Platforms:** Git, Linux, macOS, Windows
